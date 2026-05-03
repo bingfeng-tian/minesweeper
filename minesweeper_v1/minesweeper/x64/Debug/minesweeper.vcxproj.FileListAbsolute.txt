@@ -1,0 +1,7 @@
+C:\C\c++\minesweeper\minesweeper\x64\Debug\minesweeper.vcxproj.AssemblyReference.cache
+C:\C\c++\minesweeper\minesweeper\x64\Debug\minesweeper.vcxproj.SuggestedBindingRedirects.cache
+C:\C\c++\minesweeper\minesweeper\x64\Debug\minesweeper.MyForm.resources
+C:\C\c++\minesweeper\minesweeper\x64\Debug\minesweeper.vcxproj.GenerateResource.cache
+C:\myCode\C C++\練習\minesweeper\minesweeper_v1\minesweeper\x64\Debug\minesweeper.vcxproj.AssemblyReference.cache
+C:\myCode\C C++\練習\minesweeper\minesweeper_v1\minesweeper\x64\Debug\minesweeper.MyForm.resources
+C:\myCode\C C++\練習\minesweeper\minesweeper_v1\minesweeper\x64\Debug\minesweeper.vcxproj.GenerateResource.cache

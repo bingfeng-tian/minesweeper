@@ -1,0 +1,13 @@
+C:\myCode\C C++\minesweeper_v3\minesweeper_v3\x64\Debug\minesweeper_v3.vcxproj.AssemblyReference.cache
+C:\myCode\C C++\minesweeper_v3\minesweeper_v3\x64\Debug\minesweeper_v3.vcxproj.SuggestedBindingRedirects.cache
+C:\myCode\C C++\minesweeper_v3\minesweeper_v3\x64\Debug\minesweeperv3.mainForm.resources
+C:\myCode\C C++\minesweeper_v3\minesweeper_v3\x64\Debug\minesweeper_v3.vcxproj.GenerateResource.cache
+C:\myCode\C C++\minesweeper\minesweeper_v3\minesweeper_v3\x64\Debug\minesweeper_v3.vcxproj.AssemblyReference.cache
+C:\myCode\C C++\minesweeper\minesweeper_v3\minesweeper_v3\x64\Debug\minesweeperv3.mainForm.resources
+C:\myCode\C C++\minesweeper\minesweeper_v3\minesweeper_v3\x64\Debug\minesweeper_v3.vcxproj.GenerateResource.cache
+C:\myCode\C C++\練習\minesweeper\minesweeper_v3\minesweeper_v3\x64\Debug\minesweeper_v3.vcxproj.AssemblyReference.cache
+C:\myCode\C C++\練習\minesweeper\minesweeper_v3\minesweeper_v3\x64\Debug\minesweeperv3.mainForm.resources
+C:\myCode\C C++\練習\minesweeper\minesweeper_v3\minesweeper_v3\x64\Debug\minesweeper_v3.vcxproj.GenerateResource.cache
+D:\下載檔案夾\練習\練習\minesweeper\minesweeper_v3\minesweeper_v3\x64\Debug\minesweeper_v3.vcxproj.AssemblyReference.cache
+D:\下載檔案夾\練習\練習\minesweeper\minesweeper_v3\minesweeper_v3\x64\Debug\minesweeperv3.mainForm.resources
+D:\下載檔案夾\練習\練習\minesweeper\minesweeper_v3\minesweeper_v3\x64\Debug\minesweeper_v3.vcxproj.GenerateResource.cache

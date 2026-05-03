@@ -1,0 +1,13 @@
+C:\C\C++\mine_simple\mine_simple\x64\Debug\mine_simple.vcxproj.AssemblyReference.cache
+C:\C\C++\mine_simple\mine_simple\x64\Debug\mine_simple.vcxproj.SuggestedBindingRedirects.cache
+C:\C\C++\mine_simple\mine_simple\x64\Debug\minesimple.Form_win.resources
+C:\C\C++\mine_simple\mine_simple\x64\Debug\mine_simple.vcxproj.GenerateResource.cache
+C:\C\v C++\mine_simple\mine_simple\x64\Debug\mine_simple.vcxproj.AssemblyReference.cache
+C:\C\v C++\mine_simple\mine_simple\x64\Debug\mine_simple.vcxproj.SuggestedBindingRedirects.cache
+C:\C\v C++\mine_simple\mine_simple\x64\Debug\minesimple.Form_win.resources
+C:\C\v C++\mine_simple\mine_simple\x64\Debug\mine_simple.vcxproj.GenerateResource.cache
+C:\C\C++\mine_simple\mine_simple\x64\Debug\minesimple.MyForm.resources
+C:\myCode\C C++\練習\minesweeper\minesweeper_v2\mine_simple\x64\Debug\mine_simple.vcxproj.AssemblyReference.cache
+C:\myCode\C C++\練習\minesweeper\minesweeper_v2\mine_simple\x64\Debug\minesimple.Form_win.resources
+C:\myCode\C C++\練習\minesweeper\minesweeper_v2\mine_simple\x64\Debug\minesimple.MyForm.resources
+C:\myCode\C C++\練習\minesweeper\minesweeper_v2\mine_simple\x64\Debug\mine_simple.vcxproj.GenerateResource.cache
